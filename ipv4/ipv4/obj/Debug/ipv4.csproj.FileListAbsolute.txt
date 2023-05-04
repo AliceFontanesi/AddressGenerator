@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Alice 4E\2° QUADRIMESTRE\ipv4\ipv4\bin\Debug\ipv4.exe.config
+C:\Users\USER\Desktop\Alice 4E\2° QUADRIMESTRE\ipv4\ipv4\bin\Debug\ipv4.exe
+C:\Users\USER\Desktop\Alice 4E\2° QUADRIMESTRE\ipv4\ipv4\bin\Debug\ipv4.pdb
+C:\Users\USER\Desktop\Alice 4E\2° QUADRIMESTRE\ipv4\ipv4\obj\Debug\ipv4.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Alice 4E\2° QUADRIMESTRE\ipv4\ipv4\obj\Debug\ipv4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Alice 4E\2° QUADRIMESTRE\ipv4\ipv4\obj\Debug\ipv4.exe
+C:\Users\USER\Desktop\Alice 4E\2° QUADRIMESTRE\ipv4\ipv4\obj\Debug\ipv4.pdb
